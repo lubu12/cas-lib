@@ -2,10 +2,10 @@
 
 ```
 
-// algo sign
+// algo
 const { algo } = require('cas-common-lib');
 
-// caxios sign
+// caxios
 const { caxios } = require('cas-common-lib');
 
 // jwt sign
