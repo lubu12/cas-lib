@@ -7,10 +7,11 @@
     "lib": "lib"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.20.0",
     "dotenv": "^8.2.0",
     "jsonwebtoken": "^8.5.1",
     "moment-timezone": "^0.5.31",
+    "path": "^0.12.7",
     "winston": "^3.3.3"
   },
   "devDependencies": {
