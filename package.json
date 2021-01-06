@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "jsonwebtoken": "^8.5.1",
     "moment-timezone": "^0.5.31",
     "winston": "^3.3.3"
