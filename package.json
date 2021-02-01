@@ -9,24 +9,24 @@
   "dependencies": {
     "axios": "^0.21.1",
     "jsonwebtoken": "^8.5.1",
-    "moment-timezone": "^0.5.31",
+    "moment-timezone": "^0.5.32",
     "winston": "^3.3.3"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.11.0"
+    "eslint": "^7.19.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lubu12/cas-common-lib.git"
+    "url": "git+https://github.com/CompAndSave/cas-common-lib.git"
   },
   "author": "Andrew Y",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lubu12/cas-common-lib/issues"
+    "url": "https://github.com/CompAndSave/cas-common-lib/issues"
   },
-  "homepage": "https://github.com/lubu12/cas-common-lib#readme"
+  "homepage": "https://github.com/CompAndSave/cas-common-lib#readme"
 }
