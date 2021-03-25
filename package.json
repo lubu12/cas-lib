@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "jsonwebtoken": "^8.5.1",
-    "moment-timezone": "^0.5.32",
+    "moment-timezone": "^0.5.33",
     "winston": "^3.3.3"
   },
   "devDependencies": {
