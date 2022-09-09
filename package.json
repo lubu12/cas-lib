@@ -11,6 +11,7 @@
     "axios": "^0.21.1",
     "jsonwebtoken": "^8.5.1",
     "moment-timezone": "^0.5.33",
+    "mongodb-ops": "^0.8.1",
     "notifier-slack-sns": "^0.1.2",
     "winston": "^3.3.3"
   },

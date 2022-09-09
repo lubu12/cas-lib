@@ -6,8 +6,7 @@ const expressHelper = require('./lib/express-helper.js');
 const jwt = require('./lib/jwt.js');
 const timer = require('./lib/timer.js');
 const Log = require('./lib/log.js');
+const Logger = require('./lib/logger.js');
 const TableBase = require('./lib/table.js');
-const Cognito = require('aws-cognito-ops');
-const Notifier = require('notifier-slack-sns');
 
-module.exports = { algo, caxios, expressHelper, jwt, timer, Log, TableBase, Cognito, Notifier };
+module.exports = { algo, caxios, expressHelper, jwt, timer, Log, Logger, TableBase };
