@@ -11,7 +11,7 @@
     "jsonwebtoken": "^9.0.0",
     "moment-timezone": "^0.5.40",
     "mongodb-ops": "^0.9.1",
-    "notifier-slack-sns": "^0.2.1",
+    "notifier-slack-sns": "^0.2.2",
     "winston": "^3.8.2"
   },
   "devDependencies": {
