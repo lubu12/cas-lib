@@ -7,19 +7,12 @@
     "lib": "lib"
   },
   "dependencies": {
-    "aws-cognito-ops": "^0.3.13",
-    "jsonwebtoken": "^9.0.0",
-    "moment-timezone": "^0.5.43",
-    "mongodb-ops": "^0.10.0",
-    "notifier-slack-sns": "^0.2.4",
-    "winston": "^3.9.0"
-  },
-  "devDependencies": {
-    "eslint": "^8.43.0"
-  },
-  "scripts": {
-    "lint": "eslint .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "aws-cognito-ops": "^0.3.14",
+    "jsonwebtoken": "^9.0.2",
+    "moment-timezone": "^0.5.45",
+    "mongodb-ops": "^0.10.1",
+    "notifier-slack-sns": "^0.2.5",
+    "winston": "^3.14.1"
   },
   "repository": {
     "type": "git",
